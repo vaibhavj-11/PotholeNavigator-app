@@ -15,4 +15,4 @@ Once the app is installed on your device, simply open it and point your camera a
 2. Highlighting of potholes on the screen
 3. Option to avoid potholes while driving or cycling
 4. User-friendly interface
-5.Alerting System
+5. Multilevel alarm alerting System
