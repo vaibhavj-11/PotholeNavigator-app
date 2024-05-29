@@ -7,7 +7,10 @@ https://github.com/vaibhavj-11/PotholeNavigator-app/assets/71918594/105a753d-f78
 # Usage
 Once the app is installed on your device, simply open it and point your camera at the road ahead. The app will use computer vision algorithms to detect potholes in real-time and highlight them on the screen. 
 
+![IMG_20240319_170829](https://github.com/vaibhavj-11/PotholeNavigator-app/assets/71918594/ebb37908-4339-4a61-a4c8-760b0a7bb3b1)
+
 # Features
+
 1. Real-time pothole detection using computer vision algorithms
 2. Highlighting of potholes on the screen
 3. Option to avoid potholes while driving or cycling
