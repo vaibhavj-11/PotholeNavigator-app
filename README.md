@@ -1,6 +1,6 @@
 
 # PotholeNavigator :  AI-Based Pothole Detection App
-This is a mobile application that uses computer vision algorithms to detect potholes in real-time using the device camera. The app can be used by anyone who wants to avoid them while driving or cycling.
+This is a mobile application that uses machine learning algorithms to detect potholes in real-time using the device back camera. The app can be used by visually impaired people who wants to avoid falling into the potholes while walking.
 
 https://github.com/vaibhavj-11/PotholeNavigator-app/assets/71918594/105a753d-f785-48a8-8014-5166c3c749c0
 
