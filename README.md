@@ -11,7 +11,7 @@ Once the app is installed on your device, simply open it and point your camera a
 
 # Features
 
-1. Real-time pothole detection using computer vision algorithms
+1. Real-time pothole detection using machine learning algorithms
 2. Highlighting of potholes on the screen
 3. Option to avoid potholes while driving or cycling
 4. User-friendly interface
